@@ -3,6 +3,7 @@ layout: single
 author_profile: true  # 왼쪽 사이드바에 내 사진과 정보 노출
 permalink: /          # 이 페이지가 첫 화면이 됨
 classes: wide
+title_hidden: true  # 자동 생성 타이틀 숨기기
 # title: "Welcome to My Profile" # 페이지 제목
 # 만약 상단에 배경 이미지를 남기고 싶다면 아래 header 섹션을 유지하세요. 
 # 필요 없으면 header 섹션 전체를 삭제해도 됩니다.
