@@ -26,6 +26,7 @@ I am a undergraduate student at Sookmyung Womens' University. I am interested in
 
 
 ## 🏆 Awards & Achievements
+- **2026.02** Excellence in Academic Awards, Sookmyung Women's University
 - **2024.11** The 2nd SMU Local Government, Industry, and Academic EXPO, Fly Start-up Demo day - 3rd place
 - **2024.08** The 1st National University Software Achievement Sharing Forum - 2nd Place
 - **2024.05 ~ 2024.12** Sookmyung Women's University 3rd Pre-Startup MVP Develop/Product support team, POCHAK
@@ -33,7 +34,7 @@ I am a undergraduate student at Sookmyung Womens' University. I am interested in
 
 ## 🎓 Education
 - **2023.08 - 2023.12** Exchange Student Program @ Angelo State University, Texas, U.S.
-- **2020.03 - 2026.02 (Expected)** B.E. in Computer Science, Sookmyung Womens' University, South Korea. (GPA: 4.27 / 4.5)
+- **2020.03 - 2026.02** B.E. in Computer Science, Sookmyung Womens' University, South Korea. (GPA: 4.27 / 4.5)
 
 ## 🎯 Internships
 - **2025.09 - Present** Undergraduate intern @ [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University.
