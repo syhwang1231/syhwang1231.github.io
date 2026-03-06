@@ -14,7 +14,7 @@ title: ""
 ---
 
 ## 😃 About me
-I am a first-year Master's student at Sungkyunkwan University. My interests are multi-modal learning, video understanding, and segmentation, but not limited!
+I am a first-year Master's student at [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University, advised by [Prof.Sungeun Hong](https://csehong.com). My interests are multi-modal learning, video understanding, and segmentation, but not limited!
 
 ## 🔎 Research Interest
 * Multi-modal Learning (Vision-Language)
