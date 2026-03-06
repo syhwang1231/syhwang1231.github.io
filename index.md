@@ -14,16 +14,16 @@ title: ""
 ---
 
 ## 😃 About me
-I am a undergraduate student at Sookmyung Womens' University. I am interested in multi-modal learning, video understanding, and segmentation tasks. Currently, I am doing internship at [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University, South Korea.
+I am a first-year Master's student at Sungkyunkwan University. My interests are multi-modal learning, video understanding, and segmentation, but not limited!
 
 ## 🔎 Research Interest
 * Multi-modal Learning (Vision-Language)
 * Video Understanding
+* Segmentation
 
 ## 📝 Publications
 **Domestic**
 - Ji-Soo Oh, **Suyeon Hwang**, Na-Ri Jang, Young-Seo Cho, Jungyeon Seo, Jongwoo Lee, *Design and Implementation of Social Media Platform for Sound Communication: POCHAK*, The Journal of The Institute of Internet, Broadcasting and Communication, Vol. 24, No. 5, 2024 Oct.
-
 
 ## 🏆 Awards & Achievements
 - **2026.02** Excellence in Academic Awards, Sookmyung Women's University
@@ -33,9 +33,10 @@ I am a undergraduate student at Sookmyung Womens' University. I am interested in
 - **2022.12** The 5th KB Kookmin Bank Software Contest - Special Award
 
 ## 🎓 Education
+- **2026.03 - Present** Master's Program @ Immersive Media Engineering, Sungkyunkwan University, South Korea.
 - **2023.08 - 2023.12** Exchange Student Program @ Angelo State University, Texas, U.S.
-- **2020.03 - 2026.02** B.E. in Computer Science, Sookmyung Womens' University, South Korea. (GPA: 4.27 / 4.5)
+- **2020.03 - 2026.02** B.E. @ Computer Science, Sookmyung Womens' University, South Korea. (GPA: 4.27 / 4.5)
 
 ## 🎯 Internships
-- **2025.09 - Present** Undergraduate intern @ [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University.
+- **2025.09 - 2026.02** Undergraduate intern @ [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University.
 - **2025.01 - 2025.09** Undergraduate intern @ [AIVision Lab](https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu), Sookmyung Womens' University.
