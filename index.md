@@ -14,12 +14,12 @@ title: ""
 ---
 
 ## 😃 About me
-I am a first-year Master's student at [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University, advised by [Prof.Sungeun Hong](https://csehong.com). My interests are multi-modal learning, video understanding, and segmentation, but not limited!
+I am a first-year Master's student at [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University, advised by [Prof.Sungeun Hong](https://csehong.com). My interests are multi-modal learning, video understanding, and amodal instance segmentation, but not limited!
 
 ## 🔎 Research Interest
 * Multi-modal Learning (Vision-Language)
 * Video Understanding
-* Segmentation
+* Amodal Instance Segmentation
 
 ## 📝 Publications
 **Domestic**
@@ -40,3 +40,7 @@ I am a first-year Master's student at [AI&Media Lab](https://aim.skku.edu), Sung
 ## 🎯 Internships
 - **2025.09 - 2026.02** Undergraduate intern @ [AI&Media Lab](https://aim.skku.edu), Sungkyunkwan University.
 - **2025.01 - 2025.09** Undergraduate intern @ [AIVision Lab](https://sites.google.com/sookmyung.ac.kr/aiv-lab-smwu), Sookmyung Womens' University.
+
+## 📚 Academic Experiences
+- Teaching Assistant
+    - Introduction to Deep Learning, SKKU, Spring 2026
